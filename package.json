@@ -2,6 +2,7 @@
   "name": "ltd-awards",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://caotrimai.github.io/ltd-awards",
   "dependencies": {
     "@babel/core": "^7.4.3",
     "@binance-chain/bsc-connector": "^1.0.0",
